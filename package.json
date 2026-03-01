@@ -1,17 +1,1 @@
-{
-  "name": "@example/starter",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
-  },
-  "devDependencies": {
-    "@astrojs/preact": "^1.0.2",
-    "@astrojs/sitemap": "^1.0.0",
-    "@netlify/netlify-marketing-tokens": "^1.1.0",
-    "astro": "^2.0.0"
-  }
-}
+{\n  "name": "dct555",\n  "version": "1.0.0",\n  "description": "A Node.js microservices project",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "axios": "^0.21.1",\n    "mongoose": "^5.12.3",\n    "cors": "^2.8.5"\n  },\n  "devDependencies": {\n    "nodemon": "^2.0.7"\n  }\n}
